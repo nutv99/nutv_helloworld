@@ -18,5 +18,9 @@
         "psr-4": {
             "nutvate\\HelloComposer\\": "src/"
         }
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "nutvate\\HelloComposer\\": "src/"
+     }
 }
