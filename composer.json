@@ -16,7 +16,7 @@
     "minimum-stability": "dev-stable",
     "autoload": {
         "psr-4": {
-            "ourcodeworld\\HelloComposer\\": "src/"
+            "nutvate\\HelloComposer\\": "src/"
         }
     }
 }
